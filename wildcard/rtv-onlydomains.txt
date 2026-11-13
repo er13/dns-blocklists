@@ -98,8 +98,6 @@ mediacdn.ru
 # smotret.tv
 #smotret.tv
 iam-profi.ru
-vintera.tv
-#serv25.vintera.tv
 2kita.com
 #tv.2kita.com
 cdn.wfc.tv
@@ -111,6 +109,18 @@ streaming.thestream.cyou
 
 # online-red.com
 online-red.com
-vintera.tv
-#serv30.vintera.tv
 yastatic.net
+
+# vintera.tv (used by smotret.tv, online-red.com and probably others)
+#vintera.tv
+serv24.vintera.tv
+serv25.vintera.tv
+serv28.vintera.tv
+serv30.vintera.tv
+serv38.vintera.tv
+serv39.vintera.tv
+serv40.vintera.tv
+serv41.vintera.tv
+serv50.vintera.tv
+serv100.vintera.tv
+smart.vintera.tv
