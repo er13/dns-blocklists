@@ -90,3 +90,9 @@ ngenix.net
 #
 mediacdn.ru
 #tvspas.mediacdn.ru
+
+# online-red.com
+online-red.com
+vintera.tv
+#serv30.vintera.tv
+yastatic.net
