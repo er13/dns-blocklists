@@ -79,8 +79,8 @@ s113.ontvtime.ru
 # ontvtime.tv
 #ontvtime.tv
 #
-a.trbcdn.net
-#f78lz4fal0.a.trbcdn.net
+#a.trbcdn.net
+f78lz4fal0.a.trbcdn.net
 #
 okcdn.ru
 #vsd198.okcdn.ru
