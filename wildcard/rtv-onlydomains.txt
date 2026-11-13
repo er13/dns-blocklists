@@ -91,6 +91,9 @@ ngenix.net
 mediacdn.ru
 #tvspas.mediacdn.ru
 
+# ontvtime.com
+# no streaming, just some old articles
+
 # online-red.com
 online-red.com
 vintera.tv
