@@ -1,7 +1,7 @@
 # 1ый канал
 1tv.ru
-stream.1tv.ru
-static.1tv.ru
+#stream.1tv.ru
+#static.1tv.ru
 
 # Россия 1, Россия 24, Россия Культура, РТР Планета, Карусель
 vgtrk.ru
@@ -15,7 +15,7 @@ rttv.com
 
 # Телеканал Звезда
 tvzvezda.ru
-tvchannelstream1.tvzvezda.ru
+#tvchannelstream1.tvzvezda.ru
 
 # 360°
 360.ru
@@ -25,9 +25,9 @@ beltelecom.by
 
 # хостит различные радиоканалы
 hostingradio.ru
-solovievfm.hostingradio.ru
+#solovievfm.hostingradio.ru
 micro-it.ru
-solovievfm.micro-it.ru
+#solovievfm.micro-it.ru
 
 # ontvtime.ru
 # топ-домен не заблокирован умышленно, всё должно выглядет как глюк,
