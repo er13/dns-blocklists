@@ -31,6 +31,10 @@ vkvideo.ru
 vkuser.net
 #vk6-13.vkuser.net
 
+# ivi
+#ivi.ru
+#ivi.tv
+
 # хостит различные радиоканалы
 hostingradio.ru
 #solovievfm.hostingradio.ru
