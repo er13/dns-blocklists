@@ -53,6 +53,7 @@ s113.ontvtime.ru
 
 # smotrim.ru
 #smotrim.ru
+live.smotrim.ru
 embed.smotrim.ru
 player.smotrim.ru
 vod.smotrim.ru
