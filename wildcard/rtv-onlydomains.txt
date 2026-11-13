@@ -70,3 +70,19 @@ live.smotrim.ru
 embed.smotrim.ru
 player.smotrim.ru
 vod.smotrim.ru
+
+# ontvtime.tv
+#ontvtime.tv
+#
+trbcdn.net
+#f78lz4fal0.a.trbcdn.net
+#
+okcdn.ru
+#vsd198.okcdn.ru
+#
+ngenix.net
+#cdn.ngenix.net
+#zabava-block-htvod.cdn.ngenix.net
+#
+mediacdn.ru
+#tvspas.mediacdn.ru
