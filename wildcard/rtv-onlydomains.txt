@@ -56,6 +56,13 @@ edgecenter.ru
 #live.edgecenter.ru
 #hls.edgecenter.ru
 
+# smotrim.ru
+#smotrim.ru
+live.smotrim.ru
+embed.smotrim.ru
+player.smotrim.ru
+vod.smotrim.ru
+
 # ontvtime.ru
 # топ-домен не заблокирован умышленно, всё должно выглядет как глюк,
 # потому блокируются только те субдомены, непосредственно с которых идёт стриминг
@@ -63,13 +70,6 @@ s102.ontvtime.ru
 s103.ontvtime.ru
 s107.ontvtime.ru
 s113.ontvtime.ru
-
-# smotrim.ru
-#smotrim.ru
-live.smotrim.ru
-embed.smotrim.ru
-player.smotrim.ru
-vod.smotrim.ru
 
 # ontvtime.tv
 #ontvtime.tv
