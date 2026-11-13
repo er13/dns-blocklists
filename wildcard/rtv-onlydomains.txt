@@ -48,6 +48,10 @@ bonus-tv.ru
 # хостит bonus-tv и других
 synterramedia.ru
 
+# Витрина ТВ (хостит/стримит также другие каналы)
+vitrinatv.ru
+vitrina.tv
+
 # хостеры
 cdnvideo.ru
 #live.cdnvideo.ru
