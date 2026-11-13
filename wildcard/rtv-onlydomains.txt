@@ -4,8 +4,8 @@ stream.1tv.ru
 static.1tv.ru
 
 # Россия 1, Россия 24, Россия Культура, РТР Планета, Карусель
-vgtrk.com
 vgtrk.ru
+vgtrk.com
 
 # НТВ
 ntv.ru
@@ -17,8 +17,14 @@ rttv.com
 tvzvezda.ru
 tvchannelstream1.tvzvezda.ru
 
-# БелТелеком
-beltelecom.by
-
 # 360°
 360.ru
+
+# БелТелеком - хостит государственные беларуские каналы
+beltelecom.by
+
+# хостит различные радиоканалы
+hostingradio.ru
+solovievfm.hostingradio.ru
+micro-it.ru
+solovievfm.micro-it.ru
