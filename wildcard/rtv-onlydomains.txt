@@ -17,6 +17,9 @@ rttv.com
 tvzvezda.ru
 #tvchannelstream1.tvzvezda.ru
 
+# че!тв
+chetv.ru
+
 # 360°
 360.ru
 
