@@ -37,6 +37,12 @@ hostingradio.ru
 micro-it.ru
 #solovievfm.micro-it.ru
 
+# bonus-tv
+bonus-tv.ru
+#tvzvezda.bonus-tv.ru
+# хостит bonus-tv и других
+synterramedia.ru
+
 # ontvtime.ru
 # топ-домен не заблокирован умышленно, всё должно выглядет как глюк,
 # потому блокируются только те субдомены, непосредственно с которых идёт стриминг
