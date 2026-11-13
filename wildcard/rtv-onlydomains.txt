@@ -23,6 +23,14 @@ tvzvezda.ru
 # БелТелеком - хостит государственные беларуские каналы
 beltelecom.by
 
+# rutube
+rutube.ru
+
+# ВКонтакте
+vkvideo.ru
+vkuser.net
+#vk6-13.vkuser.net
+
 # хостит различные радиоканалы
 hostingradio.ru
 #solovievfm.hostingradio.ru
