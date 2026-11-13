@@ -1,0 +1,24 @@
+# 1ый канал
+1tv.ru
+stream.1tv.ru
+static.1tv.ru
+
+# Россия 1, Россия 24, Россия Культура, РТР Планета, Карусель
+vgtrk.com
+vgtrk.ru
+
+# НТВ
+ntv.ru
+
+# Russia Today
+rttv.com
+
+# Телеканал Звезда
+tvzvezda.ru
+tvchannelstream1.tvzvezda.ru
+
+# БелТелеком
+beltelecom.by
+
+# 360°
+360.ru
