@@ -43,6 +43,14 @@ bonus-tv.ru
 # хостит bonus-tv и других
 synterramedia.ru
 
+# хостеры
+cdnvideo.ru
+#live.cdnvideo.ru
+#hls.cdnvideo.ru
+edgecenter.ru
+#live.edgecenter.ru
+#hls.edgecenter.ru
+
 # ontvtime.ru
 # топ-домен не заблокирован умышленно, всё должно выглядет как глюк,
 # потому блокируются только те субдомены, непосредственно с которых идёт стриминг
