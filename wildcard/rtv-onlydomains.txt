@@ -28,3 +28,11 @@ hostingradio.ru
 solovievfm.hostingradio.ru
 micro-it.ru
 solovievfm.micro-it.ru
+
+# ontvtime.ru
+# топ-домен не заблокирован умышленно, всё должно выглядет как глюк,
+# потому блокируется только те субдомены, непосредственно с которых идёт стриминг
+s102.ontvtime.ru
+s103.ontvtime.ru
+s107.ontvtime.ru
+s113.ontvtime.ru
