@@ -95,6 +95,20 @@ mediacdn.ru
 # ontvtime.com
 # no streaming, just some old articles
 
+# smotret.tv
+#smotret.tv
+iam-profi.ru
+vintera.tv
+#serv25.vintera.tv
+2kita.com
+#tv.2kita.com
+cdn.wfc.tv
+proofix.ru
+#v4.proofix.ru
+tsv.md
+streaming.thestream.cyou
+#wz-kt.ktk.kz
+
 # online-red.com
 online-red.com
 vintera.tv
