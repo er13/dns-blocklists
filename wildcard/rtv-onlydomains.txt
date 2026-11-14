@@ -29,6 +29,8 @@ beltelecom.by
 # rutube
 rutube.ru
 rutube.sport
+rtbcdn.ru
+#pic.rtbcdn.ru
 
 # ВКонтакте
 vkvideo.ru
