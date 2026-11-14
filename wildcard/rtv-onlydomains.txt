@@ -105,6 +105,9 @@ cdn.ngenix.net
 #
 mediacdn.ru
 #tvspas.mediacdn.ru
+#
+mediavitrina.ru
+#player.mediavitrina.ru
 
 # ontvtime.com
 # no streaming, just some old articles
@@ -176,10 +179,6 @@ vinteratv.com
 #serv50.vintera.tv
 #serv100.vintera.tv
 #smart.vintera.tv
-
-# mediavitrina.ru
-mediavitrina.ru
-#player.mediavitrina.ru
 
 # coolstreaming.us (international, but contains also russian language content)
 coolstreaming.us
