@@ -20,6 +20,10 @@ tvzvezda.ru
 # че!тв
 chetv.ru
 
+# ТВ Центр aka ТВЦ
+tvc.ru
+tvci.ru
+
 # 360°
 360.ru
 
