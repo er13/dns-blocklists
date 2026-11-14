@@ -157,3 +157,7 @@ vinteratv.com
 #serv50.vintera.tv
 #serv100.vintera.tv
 #smart.vintera.tv
+
+# mediavitrina.ru
+mediavitrina.ru
+#player.mediavitrina.ru
