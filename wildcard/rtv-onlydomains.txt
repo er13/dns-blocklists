@@ -1,7 +1,7 @@
 # 1ый канал
-1tv.ru
-#stream.1tv.ru
-#static.1tv.ru
+#1tv.ru
+stream.1tv.ru
+static.1tv.ru
 
 # Россия 1, Россия 24, Россия Культура, РТР Планета, Карусель
 vgtrk.ru
