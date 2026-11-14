@@ -23,6 +23,12 @@ chetv.ru
 # 360°
 360.ru
 
+# РБК
+online-video.rbc.ru
+
+# Яндекс
+tv.yandex.ru
+
 # БелТелеком - хостит государственные беларуские каналы
 beltelecom.by
 
