@@ -135,6 +135,11 @@ yastatic.net
 # all use similar sources as ontvtime.tv
 glaz.tv
 chas.tv
+vsetv.com
+on24tv.ru
+
+# seems to be limited to russia only
+limehd.tv
 
 # vintera.tv (used by smotret.tv, online-red.com and probably others)
 #vintera.tv
