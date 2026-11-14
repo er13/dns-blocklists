@@ -113,6 +113,10 @@ streaming.thestream.cyou
 online-red.com
 yastatic.net
 
+# all use similar sources as ontvtime.tv
+glaz.tv
+chas.tv
+
 # vintera.tv (used by smotret.tv, online-red.com and probably others)
 #vintera.tv
 serv24.vintera.tv
