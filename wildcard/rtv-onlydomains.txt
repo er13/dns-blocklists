@@ -1,6 +1,8 @@
 # 1ый канал
 #1tv.ru
+# used by ontvtime.ru
 stream.1tv.ru
+# used by ontvtime.tv
 static.1tv.ru
 
 # Россия 1, Россия 24, Россия Культура, РТР Планета, Карусель
