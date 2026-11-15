@@ -163,15 +163,41 @@ nlv7.sysnet.top
 # others
 a-russia.ru
 chas.tv
-# domatv.net: prevents code/connection inspecting
-domatv.net
+divan-tv.ru
+divan.tv
+domatv.net # prevents code/connection inspecting
+glaz-ok.online
 glaz.tv
-# limehd.tv: seems to be limited to russia only
-limehd.tv
+kinobar.im
+kinozed.com
+limehd.tv # seems to be limited to russia only
+mediabay.tv
+#st2.mediabay.tv
+#st3.mediabay.tv
+#st4.mediabay.tv
+#st11.mediabay.tv
+#st12.mediabay.tv
+#st99.mediabay.tv
 on24tv.ru
 online-red.com
+online-tv.live
+pokaz.me
+#s.pokaz.me
 rus24.net
+tartugi.com
+tartugi.info
+tartugi.name
+tartugi.net
+tartugi.uno
+televizor24.tv
+televizorus.com
+telik.live
+tivix.co
+#s.tivix.co
+tvua.biz
+#s.tvua.biz
 tvzavr.ru
+viks.tv
 vsetv.com
 
 # vintera.tv (used by smotret.tv, online-red.com and probably others)
