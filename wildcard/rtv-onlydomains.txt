@@ -144,6 +144,7 @@ frv4.sysnet.top
 frv5.sysnet.top
 frv6.sysnet.top
 #
+nlv1.sysnet.top
 nlv2.sysnet.top
 nlv3.sysnet.top
 nlv4.sysnet.top
