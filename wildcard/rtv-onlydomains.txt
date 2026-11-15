@@ -92,8 +92,7 @@ player.smotrim.ru
 vod.smotrim.ru
 
 # ontvtime.ru
-# топ-домен не заблокирован умышленно, всё должно выглядет как глюк,
-# потому блокируются только те субдомены, непосредственно с которых идёт стриминг
+#ontvtime.ru
 s101.ontvtime.ru
 s102.ontvtime.ru
 s103.ontvtime.ru
@@ -161,25 +160,19 @@ nlv5.sysnet.top
 nlv6.sysnet.top
 nlv7.sysnet.top
 
-# online-red.com
-online-red.com
-
-# all use similar sources as ontvtime.tv
-glaz.tv
+# others
+a-russia.ru
 chas.tv
-vsetv.com
+# domatv.net: prevents code/connection inspecting
+domatv.net
+glaz.tv
+# limehd.tv: seems to be limited to russia only
+limehd.tv
 on24tv.ru
+online-red.com
 rus24.net
 tvzavr.ru
-
-# seems to be limited to russia only
-limehd.tv
-
-# a-russia.ru
-a-russia.ru
-
-# domatv.net (prevents code/connection inspecting)
-domatv.net
+vsetv.com
 
 # vintera.tv (used by smotret.tv, online-red.com and probably others)
 vintera.tv
