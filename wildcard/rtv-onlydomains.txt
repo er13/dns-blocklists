@@ -175,6 +175,9 @@ limehd.tv
 # a-russia.ru
 a-russia.ru
 
+# domatv.net (prevents code/connection inspecting)
+domatv.net
+
 # vintera.tv (used by smotret.tv, online-red.com and probably others)
 vintera.tv
 vinteratv.com
