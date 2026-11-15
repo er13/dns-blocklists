@@ -166,6 +166,8 @@ glaz.tv
 chas.tv
 vsetv.com
 on24tv.ru
+rus24.net
+tvzavr.ru
 
 # seems to be limited to russia only
 limehd.tv
