@@ -93,8 +93,9 @@ s103.ontvtime.ru
 s107.ontvtime.ru
 s113.ontvtime.ru
 
-# ontvtime.tv
+# ontvtime.tv & ontvtime.online
 #ontvtime.tv
+#ontvtime.online
 #
 #a.trbcdn.net
 f78lz4fal0.a.trbcdn.net
