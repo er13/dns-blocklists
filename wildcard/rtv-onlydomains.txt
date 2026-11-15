@@ -37,6 +37,7 @@ online-video.rbc.ru
 
 # Яндекс
 tv.yandex.ru
+yastatic.net
 
 # БелТелеком - хостит государственные беларуские каналы
 beltelecom.by
@@ -162,7 +163,6 @@ nlv7.sysnet.top
 
 # online-red.com
 online-red.com
-yastatic.net
 
 # all use similar sources as ontvtime.tv
 glaz.tv
