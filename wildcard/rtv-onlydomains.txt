@@ -63,7 +63,7 @@ hostingradio.ru
 micro-it.ru
 #solovievfm.micro-it.ru
 
-# radio sites
+# radio senders
 radiobells.com
 
 # bonus-tv
@@ -76,21 +76,6 @@ synterramedia.ru
 vitrinatv.ru
 vitrina.tv
 
-# хостеры
-cdnvideo.ru
-#live.cdnvideo.ru
-#hls.cdnvideo.ru
-edgecenter.ru
-#live.edgecenter.ru
-#hls.edgecenter.ru
-
-# smotrim.ru
-#smotrim.ru
-live.smotrim.ru
-embed.smotrim.ru
-player.smotrim.ru
-vod.smotrim.ru
-
 # ontvtime.ru
 #ontvtime.ru
 s101.ontvtime.ru
@@ -98,28 +83,6 @@ s102.ontvtime.ru
 s103.ontvtime.ru
 s107.ontvtime.ru
 s113.ontvtime.ru
-
-# ontvtime.tv & ontvtime.online
-ontvtime.tv
-ontvtime.online
-#
-#a.trbcdn.net
-f78lz4fal0.a.trbcdn.net
-#
-okcdn.ru
-#vsd198.okcdn.ru
-#
-cdn.ngenix.net
-#zabava-block-htvod.cdn.ngenix.net
-#
-mediacdn.ru
-#tvspas.mediacdn.ru
-#
-mediavitrina.ru
-#player.mediavitrina.ru
-
-# ontvtime.com
-# no streaming, just some old articles
 
 # smotret.tv
 #smotret.tv
@@ -132,6 +95,13 @@ proofix.ru
 tsv.md
 streaming.thestream.cyou
 #wz-kt.ktk.kz
+
+# smotrim.ru
+#smotrim.ru
+live.smotrim.ru
+embed.smotrim.ru
+player.smotrim.ru
+vod.smotrim.ru
 
 # SPB TV
 spbtv.online
@@ -163,6 +133,8 @@ nlv7.sysnet.top
 # others
 a-russia.ru
 chas.tv
+# coolstreaming.us: international, but contains also russian language content
+coolstreaming.us
 divan-tv.ru
 divan.tv
 # domatv.net: prevents code/connection inspecting
@@ -183,6 +155,9 @@ mediabay.tv
 on24tv.ru
 online-red.com
 online-tv.live
+ontvtime.tv
+ontvtime.online
+# ontvtime.com - no streaming, just some old articles
 pokaz.me
 #s.pokaz.me
 rus24.net
@@ -217,5 +192,28 @@ vinteratv.com
 #serv100.vintera.tv
 #smart.vintera.tv
 
-# coolstreaming.us (international, but contains also russian language content)
-coolstreaming.us
+# CDN providers
+#
+cdnvideo.ru
+#live.cdnvideo.ru
+#hls.cdnvideo.ru
+#
+edgecenter.ru
+#live.edgecenter.ru
+#hls.edgecenter.ru
+#
+mediacdn.ru
+#tvspas.mediacdn.ru
+#
+mediavitrina.ru
+#player.mediavitrina.ru
+#
+cdn.ngenix.net
+#zabava-block-htvod.cdn.ngenix.net
+#
+okcdn.ru
+#vsd198.okcdn.ru
+#
+#a.trbcdn.net
+# used by ontvtime.tv & ontvtime.online
+f78lz4fal0.a.trbcdn.net
