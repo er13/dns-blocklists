@@ -1,10 +1,12 @@
 # 1ый канал
 #1tv.ru
-# used by ontvtime.ru
+# live streaming
 stream.1tv.ru
-# used by ontvtime.tv
-# blocking stream.1tv.ru is enough, blocking static.1tv.ru breaks 1tv.ru
-#static.1tv.ru
+# used for streaming programs from archive
+v01-rtc.1internet.tv
+v02-rtc.1internet.tv
+v03-rtc.1internet.tv
+v04-rtc.1internet.tv
 
 # Россия 1, Россия 24, Россия Культура, РТР Планета, Карусель
 vgtrk.ru
