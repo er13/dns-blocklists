@@ -165,12 +165,14 @@ a-russia.ru
 chas.tv
 divan-tv.ru
 divan.tv
-domatv.net # prevents code/connection inspecting
+# domatv.net: prevents code/connection inspecting
+domatv.net
 glaz-ok.online
 glaz.tv
 kinobar.im
 kinozed.com
-limehd.tv # seems to be limited to russia only
+# limehd.tv: seems to be limited to russia only
+limehd.tv
 mediabay.tv
 #st2.mediabay.tv
 #st3.mediabay.tv
