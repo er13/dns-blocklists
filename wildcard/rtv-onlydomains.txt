@@ -59,6 +59,9 @@ hostingradio.ru
 micro-it.ru
 #solovievfm.micro-it.ru
 
+# radio sites
+radiobells.com
+
 # bonus-tv
 bonus-tv.ru
 #tvzvezda.bonus-tv.ru
