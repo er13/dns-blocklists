@@ -7,6 +7,7 @@ v01-rtc.1internet.tv
 v02-rtc.1internet.tv
 v03-rtc.1internet.tv
 v04-rtc.1internet.tv
+user75553.clients-cdnnow.ru
 
 # Россия 1, Россия 24, Россия Культура, РТР Планета, Карусель
 vgtrk.ru
