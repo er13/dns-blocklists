@@ -135,8 +135,8 @@ streaming.skynetconnect.co.za
 streaming.skyconnecting.top
 
 # debilizator.tv & gamak.tv
-#debilizator.tv
-#gamak.tv
+debilizator.tv
+gamak.tv
 #
 frw1.sysnet.top
 #
