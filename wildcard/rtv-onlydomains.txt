@@ -155,6 +155,8 @@ divan-tv.ru
 divan.tv
 # domatv.net: prevents code/connection inspecting
 domatv.net
+# federal.tv: seems to be limited to russia only
+federal.tv
 glaz-ok.online
 glaz.tv
 kinobar.im
