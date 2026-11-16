@@ -18,7 +18,7 @@ user75553.clients-cdnnow.ru
 # Россия 1, Россия 24, Россия Культура, РТР Планета
 vgtrk.ru
 vgtrk.com
-# Карусель ТВ (детский канал от ВТРК)
+# Карусель ТВ (детский канал от ВГТРК)
 karusel-tv.ru
 #coldvideo.karusel-tv.ru
 #
