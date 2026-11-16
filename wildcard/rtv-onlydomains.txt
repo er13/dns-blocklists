@@ -117,7 +117,7 @@ s107.ontvtime.ru
 s113.ontvtime.ru
 
 # smotret.tv
-#smotret.tv
+smotret.tv
 iam-profi.ru
 2kita.com
 #tv.2kita.com
