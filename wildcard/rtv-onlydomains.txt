@@ -190,6 +190,10 @@ tartugi.uno
 televizor24.tv
 televizorus.com
 telik.live
+# telik.top: uses ontv.red subdomains for streaming
+telik.top
+ontv.red
+#htf10.ontv.red
 tivix.co
 #s.tivix.co
 tvua.biz
