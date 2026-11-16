@@ -66,6 +66,9 @@ rutube.sport
 rtbcdn.ru
 #pic.rtbcdn.ru
 
+# mail.ru
+tv.mail.ru
+kino.mail.ru
 # ВКонтакте
 vkvideo.ru
 vkuser.net
@@ -147,6 +150,8 @@ nlv7.sysnet.top
 
 # others
 a-russia.ru
+# awtv.ru: affiliated with berezka.live
+awtv.ru
 berezka.live
 chas.tv
 # coolstreaming.us: international, but contains also russian language content
@@ -170,6 +175,8 @@ mediabay.tv
 #st11.mediabay.tv
 #st12.mediabay.tv
 #st99.mediabay.tv
+mlik.ru
+ntv24.ru
 on24tv.ru
 online-red.com
 online-tv.live
@@ -182,14 +189,17 @@ ontvtime.online
 ontvtime.tv
 pokaz.me
 #s.pokaz.me
+priroda.inc.ru
 rus24.net
 russia-tv.online
+smotret-tv-online.ru
 smotru.tv
 tartugi.com
 tartugi.info
 tartugi.name
 tartugi.net
 tartugi.uno
+telek.top
 televizor24.tv
 televizorus.com
 telik.live
@@ -197,12 +207,18 @@ telik.live
 telik.top
 ontv.red
 #htf10.ontv.red
+tricolor.ru
+#kino.tricolor.ru
+tricolor-tv.online
 tivix.co
 #s.tivix.co
+tvin.su
+tvntv.ru
 tvua.biz
 #s.tvua.biz
 tvzavr.ru
 viks.tv
+vits.tv
 vsetv.com
 
 # vintera.tv (used by smotret.tv, online-red.com and probably others)
