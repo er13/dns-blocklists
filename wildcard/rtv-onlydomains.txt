@@ -155,9 +155,10 @@ mediabay.tv
 on24tv.ru
 online-red.com
 online-tv.live
-ontvtime.tv
+# ontvtime.com: no streaming, just some old articles
+ontvtime.com
 ontvtime.online
-# ontvtime.com - no streaming, just some old articles
+ontvtime.tv
 pokaz.me
 #s.pokaz.me
 rus24.net
