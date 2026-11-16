@@ -57,6 +57,20 @@ vkuser.net
 #ivi.ru
 #ivi.tv
 
+# Витрина ТВ (хостит/стримит также другие каналы)
+vitrinatv.ru
+vitrina.tv
+# mediavitrina.ru: технический домен единой российской платформы «Витрина ТВ», которая отвечает за легальную онлайн-трансляцию федеральных телеканалов рф в интернете.
+mediavitrina.ru
+#media.mediavitrina.ru
+#player.mediavitrina.ru
+
+# bonus-tv
+bonus-tv.ru
+#tvzvezda.bonus-tv.ru
+# хостит bonus-tv и других
+synterramedia.ru
+
 # хостит различные радиоканалы
 hostingradio.ru
 #solovievfm.hostingradio.ru
@@ -65,16 +79,6 @@ micro-it.ru
 
 # radio senders
 radiobells.com
-
-# bonus-tv
-bonus-tv.ru
-#tvzvezda.bonus-tv.ru
-# хостит bonus-tv и других
-synterramedia.ru
-
-# Витрина ТВ (хостит/стримит также другие каналы)
-vitrinatv.ru
-vitrina.tv
 
 # ontvtime.ru
 #ontvtime.ru
@@ -205,9 +209,6 @@ edgecenter.ru
 #
 mediacdn.ru
 #tvspas.mediacdn.ru
-#
-mediavitrina.ru
-#player.mediavitrina.ru
 #
 cdn.ngenix.net
 #zabava-block-htvod.cdn.ngenix.net
