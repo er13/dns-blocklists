@@ -25,6 +25,7 @@ coldvideo.karusel-tv.ru
 # smotrim.ru (медиаплатформа ВГТРК)
 #smotrim.ru
 live.smotrim.ru
+live-gtrk.smotrim.ru
 embed.smotrim.ru
 player.smotrim.ru
 vod.smotrim.ru
