@@ -21,6 +21,13 @@ vgtrk.com
 # Карусель ТВ (детский канал от ВТРК)
 karusel-tv.ru
 #coldvideo.karusel-tv.ru
+#
+# smotrim.ru (медиаплатформа ВГТРК)
+#smotrim.ru
+live.smotrim.ru
+embed.smotrim.ru
+player.smotrim.ru
+vod.smotrim.ru
 
 # НТВ
 ntv.ru
@@ -109,13 +116,6 @@ proofix.ru
 tsv.md
 streaming.thestream.cyou
 #wz-kt.ktk.kz
-
-# smotrim.ru
-#smotrim.ru
-live.smotrim.ru
-embed.smotrim.ru
-player.smotrim.ru
-vod.smotrim.ru
 
 # SPB TV
 spbtv.online
