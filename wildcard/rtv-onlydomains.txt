@@ -229,6 +229,7 @@ tvzavr.ru
 viks.tv
 vits.tv
 vsetv.com
+xittv.net
 
 # vintera.tv (used by smotret.tv, online-red.com and probably others)
 vintera.tv
