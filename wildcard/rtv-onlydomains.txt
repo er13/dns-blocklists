@@ -3,6 +3,12 @@
 # live streaming
 stream.1tv.ru
 # used for streaming programs from archive
+v01-dtln.1internet.tv
+v02-dtln.1internet.tv
+v03-dtln.1internet.tv
+v04-dtln.1internet.tv
+v05-dtln.1internet.tv
+v06-dtln.1internet.tv
 v01-rtc.1internet.tv
 v02-rtc.1internet.tv
 v03-rtc.1internet.tv
