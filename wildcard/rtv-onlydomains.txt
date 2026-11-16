@@ -181,6 +181,7 @@ ontvtime.tv
 pokaz.me
 #s.pokaz.me
 rus24.net
+smotru.tv
 tartugi.com
 tartugi.info
 tartugi.name
