@@ -24,21 +24,35 @@ coldvideo.karusel-tv.ru
 #
 # smotrim.ru (медиаплатформа ВГТРК)
 #smotrim.ru
+#
 live.smotrim.ru
+18f97qwduf.a.trbcdn.net
+#
 live-gtrk.smotrim.ru
+00010hmr39.a.trbcdn.net
+#
 #blocking embed.smotrim.ru is not necessary
+#
 player.smotrim.ru
+#
 stream.smotrim.ru
+1gjl8gw61t.a.trbcdn.net
+#
 vod.smotrim.ru
+k9azdgve65.a.trbcdn.net
 
 # НТВ
 #ntv.ru
+#
 cdn.ntv.ru
 cl-ms80c78caa.edgecdn.ru
+#
 cdn2-vod.ntv.ru
 cdn2-vod-ntv.cdnvideo.ru
+#
 cdn2-vod-mp4.ntv.ru
 cdn2-vod-mp4-ntv.cdnvideo.ru
+#
 media2-k.ntv.ru
 xmedia-k.ntv.ru
 ymedia-k.ntv.ru
