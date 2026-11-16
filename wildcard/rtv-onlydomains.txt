@@ -36,6 +36,7 @@ cdn.ntv.ru
 cl-ms80c78caa.edgecdn.ru
 cdn2-vod-mp4.ntv.ru
 cdn2-vod-mp4-ntv.cdnvideo.ru
+ymedia-k.ntv.ru
 
 # Russia Today
 rttv.com
@@ -254,7 +255,7 @@ vinteratv.com
 # CDN providers
 #
 # used by ntv.ru
-cdnvideo.ru
+# blocking cdnvideo.ru breaks ntv.ru
 edgecenter.ru
 edgecdn.ru
 #
