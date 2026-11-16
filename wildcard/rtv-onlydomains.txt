@@ -171,6 +171,7 @@ domatv.net
 federal.tv
 glaz-ok.online
 glaz.tv
+kaban.tv
 kinobar.im
 kinozed.com
 # limehd.tv: seems to be limited to russia only
