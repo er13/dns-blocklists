@@ -147,6 +147,7 @@ nlv7.sysnet.top
 
 # others
 a-russia.ru
+berezka.live
 chas.tv
 # coolstreaming.us: international, but contains also russian language content
 coolstreaming.us
