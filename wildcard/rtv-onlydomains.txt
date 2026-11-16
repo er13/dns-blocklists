@@ -35,6 +35,9 @@ live-gtrk.smotrim.ru
 #
 player.smotrim.ru
 #
+podcast.smotrim.ru
+ur2f55bwyf.a.trbcdn.net
+#
 stream.smotrim.ru
 1gjl8gw61t.a.trbcdn.net
 #
