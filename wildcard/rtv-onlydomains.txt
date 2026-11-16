@@ -276,10 +276,13 @@ vinteratv.com
 
 # CDN providers
 #
-# used by ntv.ru
 # blocking cdnvideo.ru breaks ntv.ru
+#cdnvideo.ru
+#
 edgecenter.ru
-edgecdn.ru
+#
+# blocking edgecdn.ru breaks 1tv.ru
+#edgecdn.ru
 #
 # used by spastv.ru
 mediacdn.ru
@@ -292,6 +295,5 @@ okcdn.ru
 #vsd198.okcdn.ru
 connect.ok.ru
 #
-#a.trbcdn.net
 # used by ontvtime.tv & ontvtime.online
 f78lz4fal0.a.trbcdn.net
