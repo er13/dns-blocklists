@@ -221,6 +221,7 @@ tricolor.ru
 tricolor-tv.online
 tivix.co
 #s.tivix.co
+tivix.net
 tvin.su
 tvntv.ru
 tvua.biz
