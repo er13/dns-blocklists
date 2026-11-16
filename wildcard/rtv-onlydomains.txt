@@ -34,6 +34,8 @@ vod.smotrim.ru
 #ntv.ru
 cdn.ntv.ru
 cl-ms80c78caa.edgecdn.ru
+cdn2-vod.ntv.ru
+cdn2-vod-ntv.cdnvideo.ru
 cdn2-vod-mp4.ntv.ru
 cdn2-vod-mp4-ntv.cdnvideo.ru
 media2-k.ntv.ru
