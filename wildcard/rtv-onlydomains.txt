@@ -195,6 +195,7 @@ ontivi.net
 ontvtime.com
 ontvtime.online
 ontvtime.tv
+piranya.com
 pokaz.me
 #s.pokaz.me
 priroda.inc.ru
@@ -223,6 +224,7 @@ tricolor-tv.online
 tivix.co
 #s.tivix.co
 tivix.net
+tv-pult.com
 tvin.su
 tvntv.ru
 tvua.biz
