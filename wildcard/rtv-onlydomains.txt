@@ -36,6 +36,7 @@ cdn.ntv.ru
 cl-ms80c78caa.edgecdn.ru
 cdn2-vod-mp4.ntv.ru
 cdn2-vod-mp4-ntv.cdnvideo.ru
+media2-k.ntv.ru
 xmedia-k.ntv.ru
 ymedia-k.ntv.ru
 
