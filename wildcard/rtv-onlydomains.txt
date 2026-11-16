@@ -41,8 +41,8 @@ cdn2-vod-mp4-ntv.cdnvideo.ru
 rttv.com
 
 # Телеканал Звезда
-tvzvezda.ru
-#tvchannelstream1.tvzvezda.ru
+#tvzvezda.ru
+tvchannelstream1.tvzvezda.ru
 
 # Телеканал Спас
 spastv.ru
