@@ -259,6 +259,7 @@ cdn.ngenix.net
 #
 okcdn.ru
 #vsd198.okcdn.ru
+connect.ok.ru
 #
 #a.trbcdn.net
 # used by ontvtime.tv & ontvtime.online
