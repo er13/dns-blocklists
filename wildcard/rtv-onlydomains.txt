@@ -31,7 +31,11 @@ player.smotrim.ru
 vod.smotrim.ru
 
 # НТВ
-ntv.ru
+#ntv.ru
+cdn.ntv.ru
+cl-ms80c78caa.edgecdn.ru
+cdn2-vod-mp4.ntv.ru
+cdn2-vod-mp4-ntv.cdnvideo.ru
 
 # Russia Today
 rttv.com
@@ -39,6 +43,9 @@ rttv.com
 # Телеканал Звезда
 tvzvezda.ru
 #tvchannelstream1.tvzvezda.ru
+
+# Телеканал Спас
+#spastv.ru
 
 # че!тв
 chetv.ru
@@ -238,14 +245,12 @@ vinteratv.com
 
 # CDN providers
 #
+# used by ntv.ru
 cdnvideo.ru
-#live.cdnvideo.ru
-#hls.cdnvideo.ru
-#
 edgecenter.ru
-#live.edgecenter.ru
-#hls.edgecenter.ru
+edgecdn.ru
 #
+# used by spastv.ru
 mediacdn.ru
 #tvspas.mediacdn.ru
 #
