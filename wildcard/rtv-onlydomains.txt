@@ -45,7 +45,7 @@ tvzvezda.ru
 #tvchannelstream1.tvzvezda.ru
 
 # Телеканал Спас
-#spastv.ru
+spastv.ru
 
 # че!тв
 chetv.ru
