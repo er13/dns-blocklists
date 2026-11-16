@@ -28,6 +28,7 @@ live.smotrim.ru
 live-gtrk.smotrim.ru
 #blocking embed.smotrim.ru is not necessary
 player.smotrim.ru
+stream.smotrim.ru
 vod.smotrim.ru
 
 # НТВ
