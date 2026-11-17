@@ -157,6 +157,12 @@ yastatic.net
 # БелТелеком - хостит государственные беларуские каналы
 beltelecom.by
 
+# Первый Крымский (sick)
+1tvcrimea.ru
+#live1.1tvcrimea.ru
+#live*.1tvcrimea.ru
+#cdn.1tvcrimea.ru
+
 #Государственная телевизионная и радиовещательная компания ЛНР (sick)
 gtrklnr.ru
 #tv.gtrklnr.ru
