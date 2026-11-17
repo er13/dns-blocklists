@@ -213,6 +213,7 @@ interntv.ru
 kaban.tv
 kinobar.im
 kinozed.com
+kion.ru
 # limehd.tv: seems to be limited to russia only
 limehd.tv
 # livetvcentral.com: international, but contains also russian language content
