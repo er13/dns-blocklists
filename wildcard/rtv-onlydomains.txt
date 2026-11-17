@@ -29,6 +29,9 @@ cdn12.1internet.tv
 #
 cdn13.1internet.tv
 #
+cl-a2049965.edgecdn.ru
+1tv-live-gcore.servicecdn.ru
+#
 edge01.1internet.tv
 edge02.1internet.tv
 edge03.1internet.tv
