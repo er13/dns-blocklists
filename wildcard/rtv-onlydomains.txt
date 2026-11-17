@@ -225,6 +225,7 @@ mediabay.tv
 #st99.mediabay.tv
 mlik.ru
 nsk-tv.narod.ru
+myru.top
 ntv24.ru
 on24tv.ru
 online-red.com
