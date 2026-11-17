@@ -272,6 +272,7 @@ telik.top
 tv.ru.net
 # tvruss.ru: uses berezka.live for streaming
 tvruss.ru
+tvtomsk.ru
 ontv.red
 #htf10.ontv.red
 tricolor.ru
