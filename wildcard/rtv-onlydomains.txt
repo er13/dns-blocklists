@@ -29,7 +29,8 @@ cdn12.1internet.tv
 #
 cdn13.1internet.tv
 #
-cl-a2049965.edgecdn.ru
+# cl-a2049965.edgecdn.ru: blocking it breaks 1tv.ru, looks like it's used only for preview pictures but not for streaming
+#cl-a2049965.edgecdn.ru
 1tv-live-gcore.servicecdn.ru
 #
 edge01.1internet.tv
