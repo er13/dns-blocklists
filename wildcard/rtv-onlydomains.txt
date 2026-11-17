@@ -406,6 +406,7 @@ edgecenter.ru
 #
 # used by spastv.ru
 mediacdn.ru
+#spas.mediacdn.ru
 #tvspas.mediacdn.ru
 #
 cdn.ngenix.net
