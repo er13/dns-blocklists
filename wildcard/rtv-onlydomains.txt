@@ -106,7 +106,9 @@ ymedia-k.ntv.ru
 # Russia Today
 russiatoday.ru
 rttv.com
+#rt-glb.rttv.com
 rt.com
+#hls.rt.com
 rtarabic.com
 rt-english.com
 actualidad-rt.com
