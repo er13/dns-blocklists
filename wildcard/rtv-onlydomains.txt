@@ -275,6 +275,8 @@ tivix.co
 tivix.net
 tv124.top
 tv-pult.com
+# tvarena.eu: uses smotret.tv for streaming
+tvarena.eu
 tvin.su
 tvntv.ru
 tvradio-online.com
