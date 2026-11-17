@@ -293,6 +293,7 @@ tvua.biz
 tvzavr.ru
 viks.tv
 vits.tv
+vot-tak.tv
 vsetv.com
 # worldstvmobile.com: international, but contains also russian language content
 worldstvmobile.com
