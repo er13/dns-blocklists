@@ -311,6 +311,7 @@ tartugi.uno
 telek.top
 teleon.tv
 #player.teleon.tv
+televizor-24-tochka.ru
 televizor24.tv
 televizorus.com
 telik.live
