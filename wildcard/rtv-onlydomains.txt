@@ -203,6 +203,8 @@ divan.tv
 domatv.net
 # federal.tv: seems to be limited to russia only
 federal.tv
+# geocam.ru: offers TV channels under geocam.ru/online/${channel_name}/
+geocam.ru
 glaz-ok.online
 glaz-tv.top
 glaz.tv
