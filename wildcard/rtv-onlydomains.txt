@@ -112,8 +112,8 @@ vkuser.net
 vitrinatv.ru
 vitrina.tv
 # mediavitrina.ru: технический домен единой российской платформы «Витрина ТВ», которая отвечает за легальную онлайн-трансляцию федеральных телеканалов рф в интернете.
-mediavitrina.ru
-#media.mediavitrina.ru
+#mediavitrina.ru
+media.mediavitrina.ru
 #player.mediavitrina.ru
 
 # bonus-tv
