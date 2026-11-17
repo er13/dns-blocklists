@@ -203,6 +203,7 @@ domatv.net
 # federal.tv: seems to be limited to russia only
 federal.tv
 glaz-ok.online
+glaz-tv.top
 glaz.tv
 hqtv.su
 interntv.ru
