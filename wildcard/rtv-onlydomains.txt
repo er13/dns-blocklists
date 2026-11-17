@@ -225,6 +225,7 @@ nlv7.sysnet.top
 # others
 24h.tv
 a-russia.ru
+arigus.tv
 # awtv.ru: uses berezka.live for streaming
 awtv.ru
 berezka.live
