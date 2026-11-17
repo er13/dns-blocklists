@@ -247,6 +247,8 @@ tartugi.name
 tartugi.net
 tartugi.uno
 telek.top
+teleon.tv
+#player.teleon.tv
 televizor24.tv
 televizorus.com
 telik.live
