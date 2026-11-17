@@ -261,6 +261,8 @@ televizorus.com
 telik.live
 # telik.top: uses ontv.red subdomains for streaming
 telik.top
+# tv.ru.net: uses televizor24.tv for streaming
+tv.ru.net
 ontv.red
 #htf10.ontv.red
 tricolor.ru
