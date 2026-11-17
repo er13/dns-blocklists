@@ -74,6 +74,8 @@ live.smotrim.ru
 live-gtrk.smotrim.ru
 00010hmr39.a.trbcdn.net
 #
+live-vgtrksmotrim.cdnvideo.ru
+#
 #blocking embed.smotrim.ru is not necessary
 #
 player.smotrim.ru
@@ -86,6 +88,9 @@ stream.smotrim.ru
 #
 vod.smotrim.ru
 k9azdgve65.a.trbcdn.net
+#
+vgtrkregion-reg.cdnvideo.ru
+vgtrkregion.cdnvideo.ru
 
 # НТВ
 #ntv.ru
