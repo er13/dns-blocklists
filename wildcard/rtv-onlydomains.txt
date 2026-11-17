@@ -152,6 +152,10 @@ yastatic.net
 # БелТелеком - хостит государственные беларуские каналы
 beltelecom.by
 
+#Государственная телевизионная и радиовещательная компания ЛНР (sick)
+gtrklnr.ru
+#tv.gtrklnr.ru
+
 # rutube
 rutube.ru
 rutube.sport
