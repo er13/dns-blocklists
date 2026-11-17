@@ -40,6 +40,11 @@ edge04.1internet.tv
 edge05.1internet.tv
 edge06.1internet.tv
 #
+edge1.1internet.tv
+edge2.1internet.tv
+edge3.1internet.tv
+edge4.1internet.tv
+#
 v01-dtln.1internet.tv
 v02-dtln.1internet.tv
 v03-dtln.1internet.tv
