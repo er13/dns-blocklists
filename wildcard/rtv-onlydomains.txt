@@ -133,6 +133,7 @@ tvci.ru
 online-video.rbc.ru
 
 # Яндекс
+strm.yandex.ru
 tv.yandex.ru
 yastatic.net
 
