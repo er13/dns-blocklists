@@ -265,6 +265,7 @@ telik.live
 telik.top
 # tv.ru.net: uses televizor24.tv for streaming
 tv.ru.net
+tvruss.ru
 ontv.red
 #htf10.ontv.red
 tricolor.ru
