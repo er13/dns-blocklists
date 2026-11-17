@@ -300,6 +300,7 @@ smotri.click
 smotru.tv
 # start.ru: seems to be limited to russia only
 start.ru
+tamby.info
 tartugi.com
 tartugi.info
 tartugi.name
