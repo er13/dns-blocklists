@@ -280,8 +280,9 @@ tricolor-tv.online
 tivix.co
 #s.tivix.co
 tivix.net
-tv124.top
 tv-pult.com
+tv.sb.by
+tv124.top
 # tvarena.eu: uses smotret.tv for streaming
 tvarena.eu
 tvin.su
