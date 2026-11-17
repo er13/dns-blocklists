@@ -75,7 +75,11 @@ rttv.com
 
 # Телеканал Звезда
 #tvzvezda.ru
+#zvezdalive.ru
+#radiozvezda.ru
+#zvezdaweekly.ru
 cdn.tvzvezda.ru
+mcdn2.tvzvezda.ru
 tvchannelstream1.tvzvezda.ru
 
 # Телеканал Спас
