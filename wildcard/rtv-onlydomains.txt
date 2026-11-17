@@ -191,7 +191,7 @@ nlv7.sysnet.top
 # others
 24h.tv
 a-russia.ru
-# awtv.ru: affiliated with berezka.live
+# awtv.ru: uses berezka.live for streaming
 awtv.ru
 berezka.live
 chas.tv
@@ -265,6 +265,7 @@ telik.live
 telik.top
 # tv.ru.net: uses televizor24.tv for streaming
 tv.ru.net
+# tvruss.ru: uses berezka.live for streaming
 tvruss.ru
 ontv.red
 #htf10.ontv.red
