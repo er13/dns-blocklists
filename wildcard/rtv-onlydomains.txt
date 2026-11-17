@@ -189,6 +189,7 @@ nlv6.sysnet.top
 nlv7.sysnet.top
 
 # others
+24h.tv
 a-russia.ru
 # awtv.ru: affiliated with berezka.live
 awtv.ru
