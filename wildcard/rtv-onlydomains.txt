@@ -104,7 +104,17 @@ xmedia-k.ntv.ru
 ymedia-k.ntv.ru
 
 # Russia Today
+russiatoday.ru
 rttv.com
+rt.com
+rtarabic.com
+rt-english.com
+actualidad-rt.com
+de-rt.com
+rtenfrancais.tv
+rt.rs
+rtchina.cn
+mf.b37mrtl.ru
 
 # Телеканал Звезда
 #tvzvezda.ru
