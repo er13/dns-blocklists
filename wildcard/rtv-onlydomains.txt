@@ -317,6 +317,7 @@ telik.top
 topaz24.su
 # totv.org: international, but contains also russian language content
 totv.org
+tv-rf.com
 # tv.ru.net: uses televizor24.tv for streaming
 tv.ru.net
 # tvruss.ru: uses berezka.live for streaming
