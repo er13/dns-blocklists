@@ -154,6 +154,15 @@ strm.yandex.ru
 tv.yandex.ru
 yastatic.net
 
+# Региональные
+belnovosti.cdn.easyhoster.ru
+live-saha.cdnvideo.ru
+live-vestinn.cdnvideo.ru
+mirbelogorya.ru
+saratov24.tv
+streaming.astrakhan.ru
+tvtogliatti24.ru
+
 # БелТелеком - хостит государственные беларуские каналы
 beltelecom.by
 
