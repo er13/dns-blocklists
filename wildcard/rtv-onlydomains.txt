@@ -228,6 +228,7 @@ a-russia.ru
 arigus.tv
 # awtv.ru: uses berezka.live for streaming
 awtv.ru
+belsmi.narod.ru
 berezka.live
 chas.tv
 clicktv.uz
