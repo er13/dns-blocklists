@@ -296,6 +296,8 @@ smotret-online.tv
 smotret-tv-online.ru
 smotri.click
 smotru.tv
+# start.ru: seems to be limited to russia only
+start.ru
 tartugi.com
 tartugi.info
 tartugi.name
