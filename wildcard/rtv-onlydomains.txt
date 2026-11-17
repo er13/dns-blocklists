@@ -318,6 +318,8 @@ totv.org
 # tv.ru.net: uses televizor24.tv for streaming
 tv.ru.net
 # tvruss.ru: uses berezka.live for streaming
+tvoe.live
+tvoe.team
 tvruss.ru
 tvtomsk.ru
 ontv.red
