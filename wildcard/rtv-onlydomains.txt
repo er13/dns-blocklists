@@ -1,7 +1,13 @@
 # 1ый канал
 #1tv.ru
 # live streaming
-stream.1tv.ru
+#stream.1tv.ru
+edge01.1internet.tv
+edge02.1internet.tv
+edge03.1internet.tv
+edge04.1internet.tv
+edge05.1internet.tv
+edge06.1internet.tv
 # used for streaming programs from archive
 v01-dtln.1internet.tv
 v02-dtln.1internet.tv
