@@ -2,6 +2,10 @@
 #1tv.ru
 # live streaming
 #stream.1tv.ru
+cdn01.1internet.tv
+cdn02.1internet.tv
+cdn03.1internet.tv
+cdn04.1internet.tv
 edge01.1internet.tv
 edge02.1internet.tv
 edge03.1internet.tv
