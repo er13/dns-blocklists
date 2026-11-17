@@ -210,6 +210,7 @@ kinobar.im
 kinozed.com
 # limehd.tv: seems to be limited to russia only
 limehd.tv
+magtv.top
 mediabay.tv
 #st2.mediabay.tv
 #st3.mediabay.tv
