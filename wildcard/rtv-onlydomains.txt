@@ -170,6 +170,9 @@ beltelecom.by
 #videobel.by
 streaming.videobel.by
 
+# news.by
+s3-minsk.becloud.by
+
 # ОНТ
 #ont.by
 
