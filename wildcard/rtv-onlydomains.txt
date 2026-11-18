@@ -173,6 +173,9 @@ streaming.videobel.by
 # news.by
 s3-minsk.becloud.by
 
+# РТР-Беларусь
+belrtr.by
+
 # ОНТ
 #ont.by
 
