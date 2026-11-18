@@ -294,6 +294,8 @@ kaban.tv
 kinobar.im
 kinozed.com
 kion.ru
+kuvalda.tv
+kuvaldatv.ru
 limehd-tv.online
 # limehd.tv: seems to be limited to russia only
 limehd.tv
