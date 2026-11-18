@@ -170,6 +170,9 @@ beltelecom.by
 #videobel.by
 streaming.videobel.by
 
+# ОНТ
+#ont.by
+
 # Первый Крымский (sick)
 1tvcrimea.ru
 #live1.1tvcrimea.ru
