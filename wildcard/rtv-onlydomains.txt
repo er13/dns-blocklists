@@ -238,6 +238,10 @@ s103.ontvtime.ru
 s107.ontvtime.ru
 s113.ontvtime.ru
 
+# mnogotv.com
+#mnogotv.com
+cdn.mnogotv.com
+
 # smotret.tv
 smotret.tv
 iam-profi.ru
