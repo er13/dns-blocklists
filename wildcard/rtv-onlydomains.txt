@@ -380,6 +380,7 @@ tartugi.name
 tartugi.net
 tartugi.uno
 telek.top
+telekanaly.com
 teleon.tv
 #player.teleon.tv
 televizor-24-tochka.ru
