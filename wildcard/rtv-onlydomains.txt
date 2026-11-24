@@ -373,6 +373,8 @@ smotri.click
 smotru.tv
 # start.ru: seems to be limited to russia only
 start.ru
+t-b.ru.com
+taobao.ru.com
 tamby.info
 tartugi.com
 tartugi.info
