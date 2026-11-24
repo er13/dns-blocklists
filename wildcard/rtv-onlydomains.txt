@@ -156,6 +156,7 @@ yastatic.net
 
 # Региональные
 belnovosti.cdn.easyhoster.ru
+dvhab.ru
 live-saha.cdnvideo.ru
 live-vestinn.cdnvideo.ru
 mirbelogorya.ru
