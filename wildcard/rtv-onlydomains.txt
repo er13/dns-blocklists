@@ -329,6 +329,7 @@ livetv.by
 # livetvcentral.com: international, but contains also russian language content
 livetvcentral.com
 magtv.top
+matraskin.ru
 mediabay.tv
 #st2.mediabay.tv
 #st3.mediabay.tv
@@ -362,6 +363,7 @@ ru.tv
 rus24.net
 russia.tv
 russia-tv.online
+russiatv.ru
 ruskoetv.ru
 rustv.de
 rustv.life
