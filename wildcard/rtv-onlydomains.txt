@@ -149,6 +149,14 @@ tvci.ru
 # РБК
 online-video.rbc.ru
 
+# otr-online.ru
+otr-online.ru
+webcaster.pro
+#bl.webcaster.pro
+#mcdn.webcaster.pro
+#otr.webcaster.pro
+inventos.cdnvideo.ru
+
 # Яндекс
 strm.yandex.ru
 tv.yandex.ru
