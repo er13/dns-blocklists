@@ -337,6 +337,7 @@ api.dommir.top
 flussonic.mkpnet.ru
 fs.uplink.kz
 s7.merlive.am
+stitch.teletarget.ru
 stream3.cinerama.uz
 streaming.thestream.cyou
 tvcdn01.oktv.kz
