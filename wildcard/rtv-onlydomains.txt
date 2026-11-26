@@ -107,6 +107,8 @@ cdn2-vod-mp4-ntv.cdnvideo.ru
 media2-k.ntv.ru
 xmedia-k.ntv.ru
 ymedia-k.ntv.ru
+#
+hls-mirtv.cdnvideo.ru
 
 # Russia Today
 russiatoday.ru
@@ -171,6 +173,7 @@ mirbelogorya.ru
 saratov24.tv
 streaming.astrakhan.ru
 tvtogliatti24.ru
+vod.tuva.ru
 
 # БелТелеком - хостит государственные беларуские каналы
 beltelecom.by
@@ -223,6 +226,19 @@ vitrina.tv
 #mediavitrina.ru
 media.mediavitrina.ru
 #player.mediavitrina.ru
+#
+edge01p.mediavitrina.ru
+edge02p.mediavitrina.ru
+edge03p.mediavitrina.ru
+edge04p.mediavitrina.ru
+edge05p.mediavitrina.ru
+#
+edge01r.mediavitrina.ru
+edge02r.mediavitrina.ru
+edge03r.mediavitrina.ru
+edge06r.mediavitrina.ru
+edge07r.mediavitrina.ru
+edge08r.mediavitrina.ru
 
 # bonus-tv
 bonus-tv.ru
@@ -253,26 +269,10 @@ cdn.mnogotv.com
 
 # tvtema.org
 #tvtema.org
-#
-edge01p.mediavitrina.ru
-edge02p.mediavitrina.ru
-edge03p.mediavitrina.ru
-edge04p.mediavitrina.ru
-edge05p.mediavitrina.ru
-#
-edge01r.mediavitrina.ru
-edge02r.mediavitrina.ru
-edge03r.mediavitrina.ru
-edge06r.mediavitrina.ru
-edge07r.mediavitrina.ru
-edge08r.mediavitrina.ru
-#
 flussonic.mkpnet.ru
 fs.uplink.kz
-hls-mirtv.cdnvideo.ru
 s7.merlive.am
 tvcdn01.oktv.kz
-vod.tuva.ru
 
 # smotret.tv
 smotret.tv
