@@ -96,6 +96,7 @@ vgtrkregion.cdnvideo.ru
 #ntv.ru
 #
 cdn.ntv.ru
+cdn2.ntv.ru
 cl-ms80c78caa.edgecdn.ru
 #
 cdn2-vod.ntv.ru
