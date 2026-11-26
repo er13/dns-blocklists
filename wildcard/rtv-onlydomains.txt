@@ -486,6 +486,10 @@ vinteratv.com
 #serv100.vintera.tv
 #smart.vintera.tv
 
+telecoma.tv
+#tshift-1.telecoma.tv
+#tshift-2.telecoma.tv
+
 # CDN providers
 #
 # blocking cdnvideo.ru breaks ntv.ru
