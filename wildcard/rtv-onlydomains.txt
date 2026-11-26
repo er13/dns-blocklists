@@ -423,6 +423,7 @@ tv.sb.by
 tv124.top
 # tvarena.eu: uses smotret.tv for streaming
 tvarena.eu
+tvbesedka.com
 tvin.su
 tvntv.ru
 tv-radio.online
