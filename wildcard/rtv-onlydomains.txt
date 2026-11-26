@@ -251,6 +251,21 @@ s113.ontvtime.ru
 #mnogotv.com
 cdn.mnogotv.com
 
+# tvtema.org
+#tvtema.org
+edge01r.mediavitrina.ru
+edge02r.mediavitrina.ru
+edge03r.mediavitrina.ru
+edge06r.mediavitrina.ru
+edge07r.mediavitrina.ru
+edge08r.mediavitrina.ru
+flussonic.mkpnet.ru
+fs.uplink.kz
+hls-mirtv.cdnvideo.ru
+s7.merlive.am
+tvcdn01.oktv.kz
+vod.tuva.ru
+
 # smotret.tv
 smotret.tv
 iam-profi.ru
