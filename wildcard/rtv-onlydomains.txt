@@ -207,6 +207,8 @@ rutube.ru
 rutube.sport
 rtbcdn.ru
 #pic.rtbcdn.ru
+#river-3-374.rtbcdn.ru
+#river-3-3123.rtbcdn.ru
 
 # mail.ru
 tv.mail.ru
