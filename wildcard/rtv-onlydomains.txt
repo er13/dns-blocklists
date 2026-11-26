@@ -272,9 +272,12 @@ cdn.mnogotv.com
 
 # tvtema.org
 #tvtema.org
+api.dommir.top
 flussonic.mkpnet.ru
 fs.uplink.kz
 s7.merlive.am
+stream3.cinerama.uz
+streaming.thestream.cyou
 tvcdn01.oktv.kz
 
 # smotret.tv
