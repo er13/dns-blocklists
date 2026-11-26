@@ -298,6 +298,7 @@ arigus.tv
 awtv.ru
 belsmi.narod.ru
 berezka.live
+bluecrabstv.do.am
 catcast.tv
 #v1.catcast.tv
 #v2.catcast.tv
@@ -314,6 +315,7 @@ domatv.net
 federal.tv
 # geocam.ru: offers TV channels under geocam.ru/online/${channel_name}/
 geocam.ru
+getsapp.ru
 glaz-ok.online
 glaz-tv.top
 glaz.tv
@@ -342,6 +344,7 @@ mediabay.tv
 #st12.mediabay.tv
 #st99.mediabay.tv
 mlik.ru
+mnogo-tv.com
 nsk-tv.narod.ru
 myru.top
 ntv24.ru
@@ -372,6 +375,9 @@ ruskoetv.ru
 rustv.de
 rustv.life
 rustv.live
+slynet.tv
+#iptv.slynet.tv
+smarttvnews.ru
 smotreshka.tv
 smotret-online.tv
 smotret-tv-online.ru
