@@ -109,7 +109,9 @@ cdn2-vod-mp4-ntv.cdnvideo.ru
 media2-k.ntv.ru
 xmedia-k.ntv.ru
 ymedia-k.ntv.ru
-#
+
+# МирТВ
+hls.mirtv.cdnvideo.ru
 hls-mirtv.cdnvideo.ru
 
 # Russia Today
