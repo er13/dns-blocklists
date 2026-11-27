@@ -607,3 +607,6 @@ bittv.ltd
 #
 lightiptv.net
 ottbill.cc
+#
+sharavoztv.ru
+sh365.org
