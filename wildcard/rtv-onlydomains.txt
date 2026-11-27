@@ -622,3 +622,5 @@ my1.ru
 #ottepg.my1.ru
 #
 arlekino.tv
+#
+shinda.tv
