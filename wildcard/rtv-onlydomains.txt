@@ -654,3 +654,5 @@ vsemtv.ru
 #
 schuriktv.nethouse.ru
 shurik-tv.nethouse.ru
+#
+russkoetv.tv
