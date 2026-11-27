@@ -651,3 +651,6 @@ iptv-tv.online
 #
 vsemtv.top
 vsemtv.ru
+#
+schuriktv.nethouse.ru
+shurik-tv.nethouse.ru
