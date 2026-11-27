@@ -585,3 +585,10 @@ connect.ok.ru
 #
 # used by ontvtime.tv & ontvtime.online
 f78lz4fal0.a.trbcdn.net
+
+# illegal services provided for a fee
+#
+tv.team
+tvteam.eu
+tv.in
+#wiki.tv.in
