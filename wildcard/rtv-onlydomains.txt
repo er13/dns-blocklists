@@ -626,3 +626,6 @@ arlekino.tv
 shinda.tv
 #
 bcumedia.su
+#
+ottg.app
+ottg.tv
