@@ -594,3 +594,6 @@ tv.in
 #wiki.tv.in
 #
 tv-team.online
+#
+tvizi.net
+tvizi.me
